@@ -7,7 +7,7 @@ import { GoogleTagManager } from '@next/third-parties/google';
   import './css/card.scss';
   import './css/globals.scss';
   const inter = Inter({ subsets: ['latin'] });
-
+  import { Analytics } from '@vercel/analytics/react';
 export const metadata = {
   title: 'Portfolio of Rahul Kumar Mahto - Software Developer',
   description: 'This is the portfolio of Rahul Kumar Mahto. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.',
@@ -23,6 +23,7 @@ export default function RootLayout({ children }) {
           {children}
         </main>
         <Footer />
+        <Analytics />
       </body>
       <GoogleTagManager gtmId={process.env.NEXT_PUBLIC_GTM} />
     </html>
