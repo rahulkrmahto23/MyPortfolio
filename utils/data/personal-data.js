@@ -8,10 +8,10 @@ export const personalData = {
   address: 'Bokaro , Jharkhand , India ',
   github: 'https://github.com/rahulkrmahto23',
   facebook: 'https://www.facebook.com/rahulman.rahul?mibextid=ZbWKwL',
-  linkedIn: 'linkedin.com/in/rahul-kumar-mahto-b65725228',
+  linkedIn: 'https://www.linkedin.com/in/rahul-kumar-mahto-b65725228/',
   twitter: 'https://x.com/rahulmhto23?t=iKbRwoZUQF3GdqEfXvBGmQ&s=08',
   stackOverflow: 'https://stackoverflow.com/users/25082722/rahul-kumar-mahto',
   leetcode: "https://leetcode.com/u/Rahulkrmahto23/",
   devUsername: "rahul143",
-  resume: "https://drive.google.com/file/d/1hejxD9mHBZ5R1CgQrcoCKlyhQ1vrJo10/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/1uC9BJtGFLZcY5ib2Fgo-ZJ3oavaGQDBG/view?usp=sharing"
 }
