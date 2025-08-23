@@ -120,22 +120,29 @@ function HeroSection() {
                 <span className="text-gray-400">{`['`}</span>
                 <span className="text-amber-300">React</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">NodeJS</span>
+                <span className="text-amber-300">Typescript</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Redux</span>
+                <span className="text-amber-300">NodeJs</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Express</span>
+                <span className="text-amber-300">Dotnet</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Next JS</span>
+                <span className="text-amber-300">C#</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Sql</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">MongoDB</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Docker</span>
+                <span className="text-amber-300">Java</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">AWS</span>
+                <span className="text-amber-300">MERN</span>
                 <span className="text-gray-400">{"'],"}</span>
+              </div>
+              <div>
+                <span className="ml-4 lg:ml-8 mr-2 text-white">
+                  Experience:
+                </span>
+                <span className="text-orange-400">true</span>
+                <span className="text-gray-400">,</span>
               </div>
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-white">
@@ -173,7 +180,7 @@ function HeroSection() {
               </div>
               <div>
                 <span className="ml-12 lg:ml-24 text-cyan-400">this.</span>
-                <span className="mr-2 text-white">hardWorker</span>
+                <span className="mr-2 text-white">Experience</span>
                 <span className="text-amber-300">&amp;&amp;</span>
               </div>
               <div>
