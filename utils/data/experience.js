@@ -2,8 +2,8 @@ export const experiences = [
   {
     id: 1,
     title: 'Assistant System Engineer',
-    company: "Capsitech",
-    duration: "(JAN 2024 - Present)"
+    company: "Capsitech IT  Services Private Limited",
+    duration: "(JAN 2025 - Present)"
   },
   {
     id: 2,
