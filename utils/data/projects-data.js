@@ -31,7 +31,7 @@ export const projectsData = [
         tools: ['React', 'Bootstrap', 'SCSS','Express', 'TypeScript'],
         code: '',
         role: 'frontend  Developer',
-        demo: '',
+        demo: 'https://rahul-mahto-portfolio.vercel.app/',
         image: realEstate,
     },
     {
